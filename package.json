@@ -1,0 +1,25 @@
+{
+  "name": "npm-tip",
+  "version": "0.0.1",
+  "description": "Support valuable NPM packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukem512/npm-tip.git"
+  },
+  "keywords": [
+    "npm",
+    "tip",
+    "javascript",
+    "open-source"
+  ],
+  "author": "Luke Mitchell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukem512/npm-tip/issues"
+  },
+  "homepage": "https://github.com/lukem512/npm-tip#readme"
+}
